@@ -49,7 +49,7 @@ npm install
 
 ```env
 DB_USER=postgres
-DB_PASS=123456
+DB_PASS=sua_senha
 DB_NAME=edtech_matriculas
 DB_HOST=localhost
 ```
