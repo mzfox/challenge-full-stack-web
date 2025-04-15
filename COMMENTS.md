@@ -55,17 +55,13 @@ A interface foi construída com **Vue.js** e **Vuetify**. A aplicação segue um
 
 ## ⏳ O que eu melhoraria se tivesse mais tempo
 
-- Implementação de testes automatizados (Jest + Supertest no backend)
 - Paginação e filtros na listagem de alunos
 - Autenticação com JWT e proteção de rotas
 - Validação de RA e CPF únicos com mensagens específicas
 - Refatoração dos formulários do frontend para usar Vuelidate ou Yup
-- Deploy da aplicação completa (Render, Railway, Vercel ou similar)
-- Autenticação/autorização (item marcado como diferencial)
-- Testes unitários automatizados (desejável)
-- Documentação com Swagger da API (não obrigatório, mas agregaria valor)
-- Funcionalidade de matrícula do aluno na turma (não mencionada explicitamente no escopo principal)
-
+- Autenticação/autorização 
+- Testes unitários automatizados 
+- Documentação com Swagger da API
 
 ---
 
